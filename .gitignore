@@ -1,0 +1,7 @@
+*.pyc
+uv.lock
+.idea
+__pycache__
+.DS_Store
+.env.local
+transfer_log.db
